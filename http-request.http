@@ -1,0 +1,10 @@
+POST http://localhost:8080/
+name: Stas
+Content-Type: application/json
+
+
+<> 2021-03-13T134932.400.json
+<> 2021-03-13T134910.400.json
+<> 2021-03-13T134845.400.json
+
+###
